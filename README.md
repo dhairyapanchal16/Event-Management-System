@@ -38,16 +38,6 @@ Easily manage, register, and explore upcoming events with a sleek and responsive
 
 ---
 
-## 🖼️ Screenshots
-
-| Homepage | Login Page | Dashboard |
-|-----------|-------------|------------|
-| ![Home Screenshot](assets/home-preview.png) | ![Login Screenshot](assets/login-preview.png) | ![Dashboard Screenshot](assets/dashboard-preview.png) |
-
-> 💡 Add screenshots in the `assets/` folder to make your README visually appealing.
-
----
-
 ## ⚙️ Installation Guide
 
 Follow these simple steps to run the project locally 👇
